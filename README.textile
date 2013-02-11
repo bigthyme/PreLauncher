@@ -65,8 +65,8 @@ If you add functionality to this application, create an alternative implementati
 
 h2. Credits
 
-Basic implementation can be found on: "RailsApps" :http://railsapps.github.com/tutorial-rails-prelaunch-signup.html
+Basic implementation can be found on: "RailsApps":http://railsapps.github.com/tutorial-rails-prelaunch-signup.html
 
 h2. License
 
-"MIT license" :http://opensource.org/licenses/mit-license
+"MIT license":http://opensource.org/licenses/mit-license
